@@ -1,2 +1,5 @@
 # Test1
-This project is built using flask .So first set up virtual environment
+Clone or Fork the Project
+Create a Virtual Enviroment
+go to same virtual enviroment and write below cmd
+pip install -r requirements.txt
